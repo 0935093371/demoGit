@@ -2,7 +2,7 @@ package bien;
 
 import java.util.Scanner;
 
-public class hinhTron {
+public class HinhTron {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("nhap vao ban kinh:");
